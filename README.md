@@ -1,2 +1,2 @@
 # helaruth
-##Sinhala Sinhal Dictonary 
+Sinhala Sinhala Dictonary with php and mysql datbase
