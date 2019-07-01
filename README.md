@@ -1,1 +1,2 @@
 # helaruth
+##Sinhala Sinhal Dictonary 
