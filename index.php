@@ -27,6 +27,18 @@ max-height: 300px;
   overflow-y: auto;
   text-align: start;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+#result{
+ box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.navbar{
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
   </style>
 </head>
 <body> 
@@ -71,6 +83,13 @@ max-height: 300px;
       <div  id="result"> 
 
       </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid mt-3" style="background-color: #F5F5F5;">
+  <div class="d-flex justify-content-center mb-3">
+    <div class="p-2 col-lg-12">
+      <img src="image/android.png" alt="" class="center" srcset="" style="width:70%;">
     </div>
   </div>
 </div>
